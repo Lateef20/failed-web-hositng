@@ -1,0 +1,28 @@
+body{
+    font-family: 'Itim', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.about{
+    text-align: center;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a:active{
+    text-decoration: none;
+}
+#headshot{
+    
+    max-width: 100%;
+}
+/** got a domain name from name.com but name only still dont have plcae to host
+*have a website ready 
+*now need free webhosting then to cofigure my domain name
+*
